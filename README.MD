@@ -111,4 +111,4 @@ Sinta-se à vontade para contribuir com este projeto! Envie seu PR ou abra uma i
 Se tiver alguma dúvida ou sugestão, entre em contato!
 
 * GitHub: [Savarezi](https://github.com/Savarezi) 🌐
-* LinkedIn: [Patrícia Oliveira](https://www.:http://www.linkedin.com/in/savarezi/) 💼
+* LinkedIn: [Patrícia Oliveira](https://www.linkedin.com/in/savarezi/) 💼
